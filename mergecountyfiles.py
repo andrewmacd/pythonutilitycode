@@ -2,7 +2,7 @@
 #
 # purpose: merge data from chinadataonline.org and census county data
 #
-# created by: Andrew MacDonald on 5/31/11.
+# created by: Andrew MacDonald on 5/30/11.
 #
 # copyright: (c) 2016 Andrew MacDonald. All rights reserved.
 # email: andrewwm@gmail.com
